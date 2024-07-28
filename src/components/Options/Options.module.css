@@ -1,0 +1,25 @@
+.buttonContainer {
+  width: 600px;
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.optionsButton {
+  width: 110px;
+  border: none;
+  border-radius: 12px;
+  background-color: #f3eff1;
+  font-size: 18px;
+  padding: 8px;
+  transition: background-color 300ms ease;
+}
+
+.optionsButton:hover,
+.optionsButton:focus {
+  background-color: #541553;
+  color: #ffffff;
+}

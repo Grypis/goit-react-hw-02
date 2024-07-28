@@ -1,0 +1,24 @@
+.descriptionContainer {
+  width: 400px;
+  border: 3px solid #541553;
+  border-radius: 20px;
+  -webkit-box-shadow: 0px 0px 19px -5px rgba(85, 45, 69);
+  -moz-box-shadow: 0px 0px 19px -5px rgba(85, 45, 69);
+  box-shadow: 0px 0px 19px -5px rgb(85, 45, 69);
+  background-color: #f3eff1;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.descriptionTitle {
+  color: #541553;
+  font-size: 26px;
+  margin-bottom: 8px;
+}
+
+.descriptionParagraf {
+  font-size: 18px;
+}

@@ -1,0 +1,12 @@
+.feedbackContainer {
+    display: flex;
+    width: 400px;
+    flex-direction: column;
+    gap: 12px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.feedbackText {
+    font-size: 18px;
+}
